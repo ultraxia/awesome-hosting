@@ -217,7 +217,7 @@ List of all GPU renting/hosting providers
 | [TitanGPU](https://titangpu.com)     | [Pricing](https://titangpu.com/#pricing) (0.69 €/h)              | No    |      |             |
 | [CoreWeave](https://coreweave.com)   | [Pricing](https://coreweave.com/gpu-cloud-pricing) (0.77 \$/m)   | No    |      |             |
 | [LeaderGPU](https://leadergpu.com)   | [Pricing](https://leadergpu.com/#chose-best) (523.38 €/m)        | No    |      |             |
-
+| [Novita AI](https://novita.ai)   | [Pricing](https://novita.ai/gpu-instance/pricing) (0.35 $/h)        | No    |      |             |
 ---
 
 ## LLM/Inference API
